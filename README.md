@@ -94,15 +94,11 @@ The models are evaluated using various metrics including:
 
 Detailed performance metrics are generated during the testing phase.
 
-## License
-[Add your chosen license here]
-
 ## Contributing
 Feel free to open issues or submit pull requests for any improvements.
 
 ## Authors
-[Your Name]
+Dev Mody
 
 ## Acknowledgments
 - CICIDS 2017 Dataset creators
-- [Add any other acknowledgments]
