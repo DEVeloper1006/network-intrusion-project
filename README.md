@@ -81,6 +81,13 @@ This will generate performance metrics and confusion matrices for all models.
 ## Dataset
 This project uses the CICIDS 2017 dataset, which contains benign and the most up-to-date common attacks. The dataset reflects real-world network traffic and includes various attack scenarios.
 
+### Processed Dataset Files
+- Location: [Google Drive Link](https://drive.google.com/drive/folders/18H7x3SKIEYzBvfjxhZqpgR9r9Bo4qOSL?usp=sharing)
+- Files needed:
+  - `test_features.parquet`: Testing dataset
+  - `train_features.parquet`: Training dataset
+- Total size: ~3GB
+
 ## Requirements
 See `requirements.txt` for a complete list of dependencies.
 
